@@ -24,6 +24,7 @@
     "build"
   ],
   "devDependencies": {
+    "gulp": "^3.9.1",
     "jasmine-core": "^2.6.2",
     "karma": "^1.7.0",
     "karma-jasmine": "^1.1.0",
